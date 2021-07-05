@@ -1,3 +1,5 @@
+# Deprecated! Use `symfony/infobip-notifier` instead
+
 Infobip Notifier
 ===============
 
